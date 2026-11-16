@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wordfuse",
+      "sha256_cert_fingerprints": [
+        "98:DC:B5:80:3E:7D:4F:D8:38:58:8F:4A:16:27:F5:E6:EE:58:35:61:46:FF:DF:31:A7:92:D6:DA:4C:C7:B1:68",
+        "4E:0E:7F:DC:55:E7:93:0D:AA:69:C7:72:F8:17:8A:2F:DB:AB:DA:49:18:C2:EB:16:B7:B5:71:0A:6A:36:28:F4"
+      ]
+    }
+  }
+]
